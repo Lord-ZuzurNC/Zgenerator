@@ -21,7 +21,7 @@ The 1st button "Generate" is creating the output and display it just under the b
 The 2nd button "Copy to Clipboard" copy the last generated password/PIN
 
 # Authors
-This 2 generators has been created half by me (initial code) then by ChatGPT (was curious about that big boy).<br>
+This 2 generators has been created half by me/friends (initial code) then by ChatGPT (was curious about that big boy).<br>
 
 # License
 These are under no license. So you can use it as you wish.
